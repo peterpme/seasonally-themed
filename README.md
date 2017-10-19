@@ -7,5 +7,12 @@ Create a pull request to add your favorite pairing:
 For example,
 
 My current setup:
-- iTerm2: 
-- Atom: 
+
+### iTerm2:
+![iTerm2](/screenshots/iTerm2.png)
+
+### Atom:
+![Atom](/screenshots/atom-editor.png)
+
+### Desktop Wallpaper:
+![Desktop Wallpaper](/screenshots/wallpaper.png)
